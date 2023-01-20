@@ -1,6 +1,9 @@
 ### Hi there 👋
 Hi, I'm Phillip. You might have heard a thing or two about me before.
+
 I don't enjoy coding too much but I am willing to give it my all to learn how!
+I am interested in learning how to apply the the code I use in class to real projects. I am currently working on a software company that uses artificial intelligence to alert workes when they are missing or improperly wareing safety equipment. My favorite hobby is wokring out.
+
 | Rank | Languages |
 |-----:|-----------|
 |     1| Python |
