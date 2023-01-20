@@ -1,4 +1,9 @@
 ### Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="(http://www.isupjcenter.org/wp-content/uploads/2022/06/Phillip-Gorni.png)">
+ <source media="(prefers-color-scheme: light)" srcset="(http://www.isupjcenter.org/wp-content/uploads/2022/06/Phillip-Gorni.png)">
+ <img alt="YOUR-ALT-TEXT" src="(http://www.isupjcenter.org/wp-content/uploads/2022/06/Phillip-Gorni.png)">
+</picture>
 
 <!--
 **pgorni/pgorni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
